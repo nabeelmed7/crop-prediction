@@ -1,0 +1,1 @@
+After initial examinations, we used the Kmeans clusters to divide various crops based on diffrent conditions. Then, based on those conditions, we were able to decide which crop would be best provided we know the soil conditions.
